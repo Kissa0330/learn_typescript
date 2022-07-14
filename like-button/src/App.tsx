@@ -19,4 +19,5 @@ function LikeButton()
   };
   return <span className="likeButton" onClick={handleClick}>♡ {count}</span>;
 }
+
 export default App;
